@@ -6,9 +6,7 @@ function zoekUit() {
     var abonnement ="eenvoudig";
 //als je met meer dan 2 personen kijkt en meer dan 3 uur per dag, dan is het beste abonnement familie
 //pseudocode: als (aantal==3 en duur>3 dan abonnement ="familie")
-if ( ) {
-    
-}
+
 //als je met 2 of meer personen kijkt of al een abonnement hebt, dan is het beste abonnement uitgebreid
 //pseudocode: 
 
